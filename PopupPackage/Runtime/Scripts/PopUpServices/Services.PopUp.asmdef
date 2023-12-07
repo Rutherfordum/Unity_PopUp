@@ -1,0 +1,17 @@
+{
+    "name": "Services.PopUp",
+    "rootNamespace": "",
+    "references": [
+        "GUID:6aaa433c0adc9ff4a9f0f606fd35fd82",
+        "GUID:0fa18b72ae00e3241a033a4e369b7ab3"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
