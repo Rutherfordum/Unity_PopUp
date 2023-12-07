@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: PopUp Sprite Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 1024
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 0
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 54f987ec747190343a61d0c951aa3262, type: 3}
+    - {fileID: 2800000, guid: f1ee057f8b81162469daf5a13f41dada, type: 3}
+    - {fileID: 2800000, guid: dbbf3f5a415bb9946945d3d69dcab1fa, type: 3}
+    - {fileID: 2800000, guid: ad52b05110c088c4c97137187755d42e, type: 3}
+    - {fileID: 2800000, guid: b406783aeb0879041b24f3b0b5f6473a, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 89aabd05c1752d54a95bd4aa9b03c3ea, type: 3}
+  - {fileID: 21300000, guid: 4d14d625ebe6a6442a733a0a8cacf21c, type: 3}
+  - {fileID: 21300000, guid: e7f7bcf995b101043a0d836608da86c6, type: 3}
+  - {fileID: 21300000, guid: 86aca69a188af914a952ff92fd25216e, type: 3}
+  - {fileID: 21300000, guid: d42330dc9cd333b4e83f998ad8291ea0, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - icon_plate
+  - icon_right_corner_button
+  - icon_square
+  - icon_down_corner_button
+  - icon_left_corner_button
+  m_RenderDataMap: {}
+  m_Tag: PopUp Sprite Atlas
+  m_IsVariant: 0
