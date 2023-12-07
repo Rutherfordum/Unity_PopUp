@@ -1,2 +1,2 @@
-# Unity_PopUp
-Unity Popup UI package
+# Simple PopUp UI for your app
+
