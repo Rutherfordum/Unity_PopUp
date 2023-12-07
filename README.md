@@ -1,4 +1,4 @@
-# Простой popup для вашего приложения на Unity
+# Простой Popup для вашего приложения на Unity
 ![](https://github.com/Rutherfordum/Unity_PopUp/blob/main/Demo/2023-12-07%2017-38-34%20-%20Trim.gif)
 
 ## Описание
